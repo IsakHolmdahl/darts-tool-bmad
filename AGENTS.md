@@ -115,6 +115,18 @@ Stories are stored as **GitHub Issues** and linked to the project. Each story co
 - Any story "In Progress" → Epic is "in-progress"
 - All stories "Done" → Epic is "done"
 
+### Active Sprint Board
+
+For focused sprint execution, create a filtered view in your GitHub Project called **"Current Sprint"** that shows only the stories for the epic currently being worked on (e.g., only Epic 1 stories during the Epic 1 sprint).
+
+**How to use the Current Sprint board:**
+- When starting work on a story: Move it from "To Do"/"Backlog" to **"In Progress"** column
+- When development is complete and ready for review: Move it to **"In Review"** column (this typically happens when you create a Pull Request)
+- After approval and merging: Move it to **"Done"** column
+- The sprint is complete when all stories for the current epic are in the "Done" column
+
+This approach keeps all epics and stories in the main project board while providing a focused view for active sprint execution.
+
 ---
 
 ## 🛠️ GitHub CLI Commands for Agents

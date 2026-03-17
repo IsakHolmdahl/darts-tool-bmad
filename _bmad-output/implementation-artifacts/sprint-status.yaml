@@ -51,7 +51,7 @@ development_status:
   # =====================
   # EPIC 1: Core Game Foundation
   # =====================
-  epic-1: backlog
+  epic-1: in-progress
   1-0-initialize-project-from-starter-template: backlog
   1-1-create-new-game: backlog
   1-2-configure-players: backlog
