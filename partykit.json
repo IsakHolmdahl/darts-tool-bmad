@@ -1,0 +1,4 @@
+{
+  "name": "darts-tool-bmad",
+  "main": "src/party/server.ts"
+}
